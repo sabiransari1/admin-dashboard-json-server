@@ -6,17 +6,17 @@
       "name": "Sabir",
       "description": "Mens Full Sleeves Raglan-plain",
       "gender": "male",
-      "category": "Jackets",
+      "category": "jackets",
       "price": 999
     },
     {
       "id": 2,
-      "img": "https://5.imimg.com/data5/ECOM/Default/2023/1/YW/YD/ZL/31299794/mens-full-sleeves-raglan-plain-849935-500x500.jpg",
-      "name": "Sabir",
-      "description": "Mens Full Sleeves Raglan-plain",
-      "gender": "male",
-      "category": "Jackets",
-      "price": 999
+      "img": "https://5.imimg.com/data5/ECOM/Default/2023/1/BZ/HE/CD/149051703/lycra-plain-jumpsuit-maroon-500x500.jpg",
+      "name": "Deepika",
+      "description": "Solid Lycra Plain Jumpsuit",
+      "gender": "female",
+      "category": "kurti",
+      "price": 699
     },
     {
       "id": 3,
@@ -24,7 +24,7 @@
       "name": "Sabir",
       "description": "Mens Full Sleeves Raglan-plain",
       "gender": "male",
-      "category": "Jackets",
+      "category": "jackets",
       "price": 999
     },
     {
@@ -33,7 +33,7 @@
       "name": "Sabir",
       "description": "Mens Full Sleeves Raglan-plain",
       "gender": "male",
-      "category": "Jackets",
+      "category": "jackets",
       "price": 999
     },
     {
@@ -42,7 +42,7 @@
       "name": "Sabir",
       "description": "Mens Full Sleeves Raglan-plain",
       "gender": "male",
-      "category": "Jackets",
+      "category": "jackets",
       "price": 999
     },
     {
@@ -51,7 +51,7 @@
       "name": "Sabir",
       "description": "Mens Full Sleeves Raglan-plain",
       "gender": "male",
-      "category": "Jackets",
+      "category": "jackets",
       "price": 999
     },
     {
@@ -60,7 +60,7 @@
       "name": "Sabir",
       "description": "Mens Full Sleeves Raglan-plain",
       "gender": "male",
-      "category": "Jackets",
+      "category": "jackets",
       "price": 999
     },
     {
@@ -69,7 +69,7 @@
       "name": "Sabir",
       "description": "Mens Full Sleeves Raglan-plain",
       "gender": "male",
-      "category": "Jackets",
+      "category": "jackets",
       "price": 999
     },
     {
@@ -78,7 +78,7 @@
       "name": "Sabir",
       "description": "Mens Full Sleeves Raglan-plain",
       "gender": "male",
-      "category": "Jackets",
+      "category": "jackets",
       "price": 999
     },
     {
@@ -87,7 +87,7 @@
       "name": "Sabir",
       "description": "Mens Full Sleeves Raglan-plain",
       "gender": "male",
-      "category": "Jackets",
+      "category": "jackets",
       "price": 999
     },
     {
@@ -96,7 +96,7 @@
       "name": "Sabir",
       "description": "Mens Full Sleeves Raglan-plain",
       "gender": "male",
-      "category": "Jackets",
+      "category": "jackets",
       "price": 999
     },
     {
@@ -105,7 +105,7 @@
       "name": "Sabir",
       "description": "Mens Full Sleeves Raglan-plain",
       "gender": "male",
-      "category": "Jackets",
+      "category": "jackets",
       "price": 999
     },
     {
@@ -114,7 +114,7 @@
       "name": "Sabir",
       "description": "Mens Full Sleeves Raglan-plain",
       "gender": "male",
-      "category": "Jackets",
+      "category": "jackets",
       "price": 999
     },
     {
@@ -123,7 +123,7 @@
       "name": "Sabir",
       "description": "Mens Full Sleeves Raglan-plain",
       "gender": "male",
-      "category": "Jackets",
+      "category": "jackets",
       "price": 999
     },
     {
@@ -132,7 +132,7 @@
       "name": "Sabir",
       "description": "Mens Full Sleeves Raglan-plain",
       "gender": "male",
-      "category": "Jackets",
+      "category": "jackets",
       "price": 999
     }
   ]
