@@ -60,7 +60,7 @@
       "name": "Julia Koch",
       "description": "Satin Backless Tube",
       "gender": "female",
-      "category": "modern",
+      "category": "western",
       "price": 1699
     },
     {
@@ -131,8 +131,8 @@
       "img": "https://5.imimg.com/data5/ECOM/Default/2023/1/CG/LT/CO/108860493/ha9285fc87ee348e8b4fc5eeaa68ce03ep-500x500.jpg",
       "name": "Mackenzie Scott",
       "description": "Vero Moda Lipsy Faux Georgette Foil  red mirror",
-      "gender": "",
-      "category": "modern",
+      "gender": "female",
+      "category": "western",
       "price": 1999
     },
     {
