@@ -2,138 +2,147 @@
   "products": [
     {
       "id": 1,
-      "img": "https://5.imimg.com/data5/ECOM/Default/2023/1/YW/YD/ZL/31299794/mens-full-sleeves-raglan-plain-849935-500x500.jpg",
-      "name": "Sabir",
-      "description": "Mens Full Sleeves Raglan-plain",
+      "img": "https://5.imimg.com/data5/ECOM/Default/2022/12/GC/BA/KL/90086993/koo-611mustard-1-22c4384e-7ca1-4929-9eb2-947708a4ec39-500x500.jpg",
+      "name": "Elon Musk",
+      "description": "Men Mustard Yellow & White Solid Kurta Only",
       "gender": "male",
-      "category": "jackets",
-      "price": 999
+      "category": "suit",
+      "price": 885
     },
     {
       "id": 2,
-      "img": "https://5.imimg.com/data5/ECOM/Default/2023/1/BZ/HE/CD/149051703/lycra-plain-jumpsuit-maroon-500x500.jpg",
-      "name": "Deepika",
-      "description": "Solid Lycra Plain Jumpsuit",
-      "gender": "female",
-      "category": "kurti",
-      "price": 699
+      "img": "https://5.imimg.com/data5/ECOM/Default/2023/2/RP/YZ/WS/13078142/1656676462002-31-f-originnm80prcnt-500x500.jpg",
+      "name": "Bernard Arnault",
+      "description": "Men Jeans",
+      "gender": "male",
+      "category": "jeans",
+      "price": 1018
     },
     {
       "id": 3,
-      "img": "https://5.imimg.com/data5/ECOM/Default/2023/1/YW/YD/ZL/31299794/mens-full-sleeves-raglan-plain-849935-500x500.jpg",
-      "name": "Sabir",
-      "description": "Mens Full Sleeves Raglan-plain",
+      "img": "https://5.imimg.com/data5/ECOM/Default/2023/1/LC/BV/EN/10883763/1-a0bb54f6-3bdd-43de-8e5e-61a24b491eeb-500x500.jpg",
+      "name": "Jeff Bezos",
+      "description": "Men Grey Melange Striped Track Pants",
       "gender": "male",
-      "category": "jackets",
-      "price": 999
+      "category": "trouser",
+      "price": 499
     },
     {
       "id": 4,
-      "img": "https://5.imimg.com/data5/ECOM/Default/2023/1/YW/YD/ZL/31299794/mens-full-sleeves-raglan-plain-849935-500x500.jpg",
-      "name": "Sabir",
+      "img": "https://5.imimg.com/data5/ECOM/Default/2022/8/YF/SI/UI/5444595/ggcdpf-26491-500x500.jpg",
+      "name": "Larry Ellison",
       "description": "Mens Full Sleeves Raglan-plain",
       "gender": "male",
-      "category": "jackets",
+      "category": "shirt",
       "price": 999
     },
     {
       "id": 5,
-      "img": "https://5.imimg.com/data5/ECOM/Default/2023/1/YW/YD/ZL/31299794/mens-full-sleeves-raglan-plain-849935-500x500.jpg",
-      "name": "Sabir",
-      "description": "Mens Full Sleeves Raglan-plain",
-      "gender": "male",
-      "category": "jackets",
-      "price": 999
+      "img": "https://5.imimg.com/data5/ECOM/Default/2023/7/326949756/KP/OQ/BF/146664718/photo-2022-12-31-16-22-18-500x500.jpg",
+      "name": "Francoise Bettencourt Meyers",
+      "description": "Pink Color Designer Party Wear Fancy Saree",
+      "gender": "female",
+      "category": "saree",
+      "price": 3299
     },
     {
       "id": 6,
-      "img": "https://5.imimg.com/data5/ECOM/Default/2023/1/YW/YD/ZL/31299794/mens-full-sleeves-raglan-plain-849935-500x500.jpg",
-      "name": "Sabir",
-      "description": "Mens Full Sleeves Raglan-plain",
-      "gender": "male",
-      "category": "jackets",
-      "price": 999
+      "img": "https://5.imimg.com/data5/ECOM/Default/2023/9/345924945/PQ/OW/MO/12280503/1670675325407-womenswear11-500x500.jpeg",
+      "name": "Alice Walton",
+      "description": "Pure Cambric Cotton Women's Straight Kurta Pant Dupatta",
+      "gender": "female",
+      "category": "kurti",
+      "price": 2599
     },
     {
       "id": 7,
-      "img": "https://5.imimg.com/data5/ECOM/Default/2023/1/YW/YD/ZL/31299794/mens-full-sleeves-raglan-plain-849935-500x500.jpg",
-      "name": "Sabir",
-      "description": "Mens Full Sleeves Raglan-plain",
-      "gender": "male",
-      "category": "jackets",
-      "price": 999
+      "img": "https://5.imimg.com/data5/ECOM/Default/2023/2/XE/YA/WI/145202238/1-01e17ade-29a0-42cb-bdbe-7e0b283c2a84-500x500.jpg",
+      "name": "Julia Koch",
+      "description": "Satin Backless Tube",
+      "gender": "female",
+      "category": "modern",
+      "price": 1699
     },
     {
       "id": 8,
-      "img": "https://5.imimg.com/data5/ECOM/Default/2023/1/YW/YD/ZL/31299794/mens-full-sleeves-raglan-plain-849935-500x500.jpg",
-      "name": "Sabir",
-      "description": "Mens Full Sleeves Raglan-plain",
-      "gender": "male",
-      "category": "jackets",
-      "price": 999
+      "img": "https://5.imimg.com/data5/ECOM/Default/2023/8/335032678/HN/SJ/RD/119875107/c0b8db80-328b-453f-9a6b-0c5dc6c88cc2-500x500.jpg",
+      "name": "Jacqueline Mars",
+      "description": "Jackets With Big Pocket Tops Sweater Comfortable Loose Double-Sided Fleece Thicker Wearable Blanket",
+      "gender": "female",
+      "category": "jacket",
+      "price": 1899
     },
     {
       "id": 9,
-      "img": "https://5.imimg.com/data5/ECOM/Default/2023/1/YW/YD/ZL/31299794/mens-full-sleeves-raglan-plain-849935-500x500.jpg",
-      "name": "Sabir",
-      "description": "Mens Full Sleeves Raglan-plain",
+      "img": "https://5.imimg.com/data5/ECOM/Default/2023/6/318842667/RS/LR/BF/50433867/1634734605391-whatsapp-image-2021-10-15-at-1-43-53-pm-1-originnm80prcnt-500x500.jpg",
+      "name": "Warren Buffett",
+      "description": "Gents Suit with Duppata For Every Event",
       "gender": "male",
-      "category": "jackets",
+      "category": "suit",
       "price": 999
     },
     {
       "id": 10,
-      "img": "https://5.imimg.com/data5/ECOM/Default/2023/1/YW/YD/ZL/31299794/mens-full-sleeves-raglan-plain-849935-500x500.jpg",
-      "name": "Sabir",
-      "description": "Mens Full Sleeves Raglan-plain",
+      "img": "https://5.imimg.com/data5/ECOM/Default/2023/2/RP/YZ/WS/13078142/1656676462002-31-f-originnm80prcnt-500x500.jpg",
+      "name": "Larry Page",
+      "description": "Men Solid Track Pant With Front Pocket",
       "gender": "male",
-      "category": "jackets",
-      "price": 999
+      "category": "jeans",
+      "price": 450
     },
     {
       "id": 11,
-      "img": "https://5.imimg.com/data5/ECOM/Default/2023/1/YW/YD/ZL/31299794/mens-full-sleeves-raglan-plain-849935-500x500.jpg",
-      "name": "Sabir",
-      "description": "Mens Full Sleeves Raglan-plain",
+      "img": "https://5.imimg.com/data5/ECOM/Default/2022/8/YF/SI/UI/5444595/ggcdpf-26491-500x500.jpg",
+      "name": "Bill Gates",
+      "description": "Men Cotton Blend Streachable Trackpant Combo Pack Of 2 - 32",
       "gender": "male",
-      "category": "jackets",
-      "price": 999
+      "category": "trouser",
+      "price": 523
     },
     {
       "id": 12,
-      "img": "https://5.imimg.com/data5/ECOM/Default/2023/1/YW/YD/ZL/31299794/mens-full-sleeves-raglan-plain-849935-500x500.jpg",
-      "name": "Sabir",
-      "description": "Mens Full Sleeves Raglan-plain",
+      "img": "https://5.imimg.com/data5/ECOM/Default/2023/8/335339605/YZ/UD/YK/16193338/fmls617-1-500x500.jpg",
+      "name": "Sergey Brin",
+      "description": "Brown Elephant Printed Cotton Men's Shirt",
       "gender": "male",
-      "category": "jackets",
-      "price": 999
+      "category": "shirt",
+      "price": 432
     },
     {
       "id": 13,
-      "img": "https://5.imimg.com/data5/ECOM/Default/2023/1/YW/YD/ZL/31299794/mens-full-sleeves-raglan-plain-849935-500x500.jpg",
-      "name": "Sabir",
-      "description": "Mens Full Sleeves Raglan-plain",
-      "gender": "male",
-      "category": "jackets",
-      "price": 999
+      "img": "https://5.imimg.com/data5/ECOM/Default/2022/10/MY/TJ/IZ/153990963/whatsappimage2022-10-06at5-38-18pm-2-500x500.jpg",
+      "name": "Miriam Adelson",
+      "description": "Nazneen rachna saree",
+      "gender": "female",
+      "category": "saree",
+      "price": 1495
     },
     {
       "id": 14,
-      "img": "https://5.imimg.com/data5/ECOM/Default/2023/1/YW/YD/ZL/31299794/mens-full-sleeves-raglan-plain-849935-500x500.jpg",
-      "name": "Sabir",
-      "description": "Mens Full Sleeves Raglan-plain",
-      "gender": "male",
-      "category": "jackets",
-      "price": 999
+      "img": "https://5.imimg.com/data5/ECOM/Default/2023/8/335019392/FQ/VA/WC/123378906/5-c11505a7-6c16-473b-9a23-04a950043d7f-500x500.jpg",
+      "name": "Rafaela Aponte-Diamant",
+      "description": "Indigo & Red Chikankari Kurta Set with Applique Work",
+      "gender": "female",
+      "category": "kurti",
+      "price": 2499
     },
     {
       "id": 15,
-      "img": "https://5.imimg.com/data5/ECOM/Default/2023/1/YW/YD/ZL/31299794/mens-full-sleeves-raglan-plain-849935-500x500.jpg",
-      "name": "Sabir",
-      "description": "Mens Full Sleeves Raglan-plain",
-      "gender": "male",
-      "category": "jackets",
-      "price": 999
+      "img": "https://5.imimg.com/data5/ECOM/Default/2023/1/CG/LT/CO/108860493/ha9285fc87ee348e8b4fc5eeaa68ce03ep-500x500.jpg",
+      "name": "Mackenzie Scott",
+      "description": "Vero Moda Lipsy Faux Georgette Foil  red mirror",
+      "gender": "",
+      "category": "modern",
+      "price": 1999
+    },
+    {
+      "id": 16,
+      "img": "https://5.imimg.com/data5/ECOM/Default/2023/8/333880571/RC/SJ/HN/73591483/dsc03479-2-500x500.jpg",
+      "name": "Gina Reinhart",
+      "description": "Bermuda Women Biker Riding comfortable Leather jacket Black Women's Fur",
+      "gender": "female",
+      "category": "jacket",
+      "price": 5999
     }
   ]
 }
