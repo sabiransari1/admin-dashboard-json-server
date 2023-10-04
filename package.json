@@ -1,5 +1,5 @@
 {
-  "name": "admin-dashboard-server",
+  "name": "admin-dashboard-json-server",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sabiransari1/admin-dashboard-server.git"
+    "url": "git+https://github.com/sabiransari1/admin-dashboard-json-server.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sabiransari1/admin-dashboard-server/issues"
+    "url": "https://github.com/sabiransari1/admin-dashboard-json-server/issues"
   },
-  "homepage": "https://github.com/sabiransari1/admin-dashboard-server#readme",
+  "homepage": "https://github.com/sabiransari1/admin-dashboard-json-server#readme",
   "dependencies": {
     "json-server": "^0.17.3"
   }
