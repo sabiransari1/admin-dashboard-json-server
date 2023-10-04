@@ -143,6 +143,24 @@
       "gender": "female",
       "category": "jacket",
       "price": 5999
-    }
+    },
+    {
+      "id": 17,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1ipt9dp0MS6ryk5EjAVesgFb8v9xULQLyAg&usqp=CAU",
+      "name": "Ketika Sharma",
+      "description": "Pure Black Organza Saree With Embroidery Work",
+      "gender": "female",
+      "category": "saree",
+      "price": 3499
+    },
+        {
+      "id": 18,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw02b32DBx0JWk6TWTBkj1nkVI-w_5IXIyxw&usqp=CAU",
+      "name": "Mackenzie Scott",
+      "description": "Black Mock Neck Stand Collar Solid Slim Fit Mini Dress",
+      "gender": "female",
+      "category": "western",
+      "price": 1499
+    },
   ]
 }
