@@ -161,6 +161,77 @@
       "gender": "female",
       "category": "western",
       "price": 1499
+    },
+    {
+      "id": 19,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRixITJR4-8KR-4ouIa-EGhKEzBVh_sxziskQ&usqp=CAU",
+      "name": "Ketika Sharma",
+      "description": "White Embellished Beads and Stones Saree",
+      "gender": "female",
+      "category": "saree",
+      "price": 1999
+    },
+    {
+      "id": 20,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ELKW6sSGwEa2dh3ZLvaxvcN8Ma42IA-OLg&usqp=CAU",
+      "name": "Ketika Sharma",
+      "description": "Black & Gold-Toned Sequin Embellished Georgette Saree",
+      "gender": "female",
+      "category": "saree",
+      "price": 2499
+    },
+        {
+      "id": 21,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxhCkvHvsH5kPeKQroi-b2w_q0NX82Qj0kEiN-R8gQt5l-jACW3FmJLU1lD5ifJJalSNk&usqp=CAU",
+      "name": "Ketika Sharma",
+      "description": "White Floral Embroidered Net Heavy Work Saree with Gold-Toned",
+      "gender": "female",
+      "category": "saree",
+      "price": 3999
+    },
+    {
+      "id": 22,
+      "img": "https://m.media-amazon.com/images/I/81Vfux1vR4L._UY741_.jpg",
+      "name": "Ketika Sharma",
+      "description": "MISH Women Classic Mini Dress Cut Out Dress",
+      "gender": "female",
+      "category": "western",
+      "price": 874
+    },
+            {
+      "id": 23,
+      "img": "https://m.media-amazon.com/images/I/614vD8x5ABL._UY741_.jpg",
+      "name": "Ketika Sharma",
+      "description": "AAahwan Women's & Girls' Solid Cowl Neck Cami Satin Mini Dress",
+      "gender": "female",
+      "category": "western",
+      "price": 854
+    },            {
+      "id": 24,
+      "img": "https://m.media-amazon.com/images/I/41GumcEKfeL.jpg",
+      "name": "Ketika Sharma",
+      "description": "Jaanshi Women's Sexy Sheer Cover Up Side Split Baby Doll Dress See Through Dress Honeymoon Beachwear See Through Dress for Woman Beach Dress",
+      "gender": "female",
+      "category": "western",
+      "price": 749
+    },
+      {
+      "id": 25,
+      "img": "https://m.media-amazon.com/images/I/51L8E5fAe9L._UY741_.jpg",
+      "name": "Ketika Sharma",
+      "description": "Tandul 2 Pieces Dress for Women Dresses Full Maxi Length Sleeveless Dress for Women & Girls, Black",
+      "gender": "female",
+      "category": "western",
+      "price": 699
+    },
+    {
+      "id": 26,
+      "img": "https://m.media-amazon.com/images/I/71uSFNLGs7L._UY741_.jpg",
+      "name": "Ketika Sharma",
+      "description": "Elyraa Women's A-Line Knee Length Dress Women/Girls",
+      "gender": "female",
+      "category": "western",
+      "price": 999
     }
   ]
 }
