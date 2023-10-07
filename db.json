@@ -241,6 +241,31 @@
       "gender": "female",
       "category": "western",
       "price": 799
+    },       {
+      "id": 28,
+      "img": "https://pbs.twimg.com/media/F2mTpRGWQAAVFhD?format=jpg&name=360x360",
+      "name": "Madhuri Jain",
+      "description": "Jacquard Patola Silk Saree With Unstitched Blouse Piece",
+      "gender": "female",
+      "category": "saree",
+      "price": 2899
+    },
+    {
+      "id": 29,
+      "img": "https://pbs.twimg.com/media/FLyC674agAA_bF3?format=jpg&name=360x360",
+      "name": "Madhuri Jain",
+      "description": "GoSriKi Women Kurta with red Dupatta",
+      "gender": "female",
+      "category": "kurti",
+      "price": 899
+    },{
+      "id": 30,
+      "img": "https://pbs.twimg.com/media/Fn3cCObacAAIjiw?format=jpg&name=small",
+      "name": "Jacqueline Mars",
+      "description": "Fabricorn Women's Fleece Collared Neck Jacket",
+      "gender": "female",
+      "category": "jacket",
+      "price": 799
     }
   ]
 }
