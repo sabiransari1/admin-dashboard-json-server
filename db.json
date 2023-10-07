@@ -232,6 +232,15 @@
       "gender": "female",
       "category": "western",
       "price": 999
+    },
+        {
+      "id": 27,
+      "img": "https://pbs.twimg.com/media/Fbe0X_PaUAEVJkX?format=jpg&name=small",
+      "name": "Madhuri Jain",
+      "description": "ADDYVERO Fold Pleated Bodycon Dress",
+      "gender": "female",
+      "category": "western",
+      "price": 799
     }
   ]
 }
