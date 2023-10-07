@@ -173,7 +173,7 @@
     },
     {
       "id": 20,
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxhCkvHvsH5kPeKQroi-b2w_q0NX82Qj0kEiN-R8gQt5l-jACW3FmJLU1lD5ifJJalSNk&usqp=CAU",
+      "img": "https://pbs.twimg.com/media/FdqS2qoakAA_fc_?format=jpg",
       "name": "Ketika Sharma",
       "description": "White Floral Embroidered Net Heavy Work Saree with Gold-Toned",
       "gender": "female",
@@ -296,6 +296,33 @@
       "gender": "male",
       "category": "trouser",
       "price": 649
+    },
+    {
+      "id": 34,
+      "img": "https://pbs.twimg.com/media/FI_pPX_aMAAyySQ?format=jpg",
+      "name": "Jacqueline Mars",
+      "description": "Women Solid Casual White Jacket",
+      "gender": "female",
+      "category": "jacket",
+      "price": 299
+    },
+    {
+      "id": 35,
+      "img": "https://pbs.twimg.com/media/FENDRzAVcAQjo5l?format=jpg",
+      "name": "Jacqueline Mars",
+      "description": "Elegant Open Front Houndstooth Blazer Work Office Jacket Outwear",
+      "gender": "female",
+      "category": "jacket",
+      "price": 438
+    },
+    {
+      "id": 36,
+      "img": "https://pbs.twimg.com/media/FHIrqIDVIAMzrQb?format=jpg",
+      "name": "Ketika Sharma",
+      "description": "Cotton Printed Anarkali Kurta With Palazzo & Dupatta Set",
+      "gender": "female",
+      "category": "kurti",
+      "price": 679
     }
   ]
 }
