@@ -11,16 +11,16 @@
     },
     {
       "id": 2,
-      "img": "https://5.imimg.com/data5/ECOM/Default/2023/2/RP/YZ/WS/13078142/1656676462002-31-f-originnm80prcnt-500x500.jpg",
+      "img": "https://m.media-amazon.com/images/I/51Zi8fZ37KL._UX679_.jpg",
       "name": "Bernard Arnault",
       "description": "Men Jeans",
       "gender": "male",
-      "category": "jeans",
+      "category": "trouser",
       "price": 1018
     },
     {
       "id": 3,
-      "img": "https://5.imimg.com/data5/ECOM/Default/2023/1/LC/BV/EN/10883763/1-a0bb54f6-3bdd-43de-8e5e-61a24b491eeb-500x500.jpg",
+      "img": "https://m.media-amazon.com/images/I/51UNoIauBUL._UX679_.jpg",
       "name": "Jeff Bezos",
       "description": "Men Grey Melange Striped Track Pants",
       "gender": "male",
@@ -134,15 +134,6 @@
       "gender": "female",
       "category": "western",
       "price": 1999
-    },
-    {
-      "id": 16,
-      "img": "https://5.imimg.com/data5/ECOM/Default/2023/8/333880571/RC/SJ/HN/73591483/dsc03479-2-500x500.jpg",
-      "name": "Gina Reinhart",
-      "description": "Bermuda Women Biker Riding comfortable Leather jacket Black Women's Fur",
-      "gender": "female",
-      "category": "jacket",
-      "price": 5999
     },
     {
       "id": 17,
@@ -269,6 +260,24 @@
       "gender": "female",
       "category": "jacket",
       "price": 799
+    },
+    {
+      "id": 31,
+      "img": "https://m.media-amazon.com/images/I/81oQrtlidNL._UX569_.jpg",
+      "name": "Jacqueline Mars",
+      "description": "Myx Women's Cotton Regular Kurti",
+      "gender": "female",
+      "category": "kurti",
+      "price": 399
+    },
+    {
+      "id": 32,
+      "img": "https://m.media-amazon.com/images/I/81ZcgdIk-xL._UX569_.jpg",
+      "name": "Jacqueline Mars",
+      "description": "Myx Women's Cotton Regular Short Kurti",
+      "gender": "female",
+      "category": "kurti",
+      "price": 349
     }
   ]
 }
