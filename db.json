@@ -278,6 +278,24 @@
       "gender": "female",
       "category": "kurti",
       "price": 349
+    },
+    {
+      "id": 32,
+      "img": "https://m.media-amazon.com/images/I/61QWLFwknWL._UX569_.jpg",
+      "name": "Bernard Arnault",
+      "description": "MUrbano Fashion Men's Cotton Slim Fit Casual Chinos Trousers Stretch",
+      "gender": "male",
+      "category": "trouser",
+      "price": 749
+    },
+    {
+      "id": 33,
+      "img": "https://m.media-amazon.com/images/I/61YHtYYabpL._UX569_.jpg",
+      "name": "Bernard Arnault",
+      "description": "Men's Regular Fit Casual Trouser",
+      "gender": "male",
+      "category": "trouser",
+      "price": 649
     }
   ]
 }
