@@ -83,9 +83,9 @@
     },
     {
       "id": 10,
-      "img": "https://m.media-amazon.com/images/I/519DJpTfaNL._AC_UL320_.jpg",
+      "img": "https://m.media-amazon.com/images/I/71caXw8nMIL._UX569_.jpg",
       "name": "Larry Page",
-      "description": "Men Solid Track Pant With Front Pocket",
+      "description": "Men's Lightweight & Stretchable Regular Fit Jeans",
       "gender": "male",
       "category": "jeans",
       "price": 450
@@ -136,7 +136,7 @@
       "price": 1999
     },
     {
-      "id": 17,
+      "id": 16,
       "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1ipt9dp0MS6ryk5EjAVesgFb8v9xULQLyAg&usqp=CAU",
       "name": "Ketika Sharma",
       "description": "Pure Black Organza Saree With Embroidery Work",
@@ -145,7 +145,7 @@
       "price": 3499
     },
     {
-      "id": 18,
+      "id": 17,
       "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw02b32DBx0JWk6TWTBkj1nkVI-w_5IXIyxw&usqp=CAU",
       "name": "Ketika Sharma",
       "description": "Black Mock Neck Stand Collar Solid Slim Fit Mini Dress",
@@ -154,7 +154,7 @@
       "price": 1499
     },
     {
-      "id": 19,
+      "id": 18,
       "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRixITJR4-8KR-4ouIa-EGhKEzBVh_sxziskQ&usqp=CAU",
       "name": "Ketika Sharma",
       "description": "White Embellished Beads and Stones Saree",
@@ -163,7 +163,7 @@
       "price": 1999
     },
     {
-      "id": 20,
+      "id": 19,
       "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ELKW6sSGwEa2dh3ZLvaxvcN8Ma42IA-OLg&usqp=CAU",
       "name": "Ketika Sharma",
       "description": "Black & Gold-Toned Sequin Embellished Georgette Saree",
@@ -172,7 +172,7 @@
       "price": 2499
     },
     {
-      "id": 21,
+      "id": 20,
       "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxhCkvHvsH5kPeKQroi-b2w_q0NX82Qj0kEiN-R8gQt5l-jACW3FmJLU1lD5ifJJalSNk&usqp=CAU",
       "name": "Ketika Sharma",
       "description": "White Floral Embroidered Net Heavy Work Saree with Gold-Toned",
@@ -181,7 +181,7 @@
       "price": 3999
     },
     {
-      "id": 22,
+      "id": 21,
       "img": "https://m.media-amazon.com/images/I/81Vfux1vR4L._UY741_.jpg",
       "name": "Ketika Sharma",
       "description": "MISH Women Classic Mini Dress Cut Out Dress",
@@ -190,7 +190,7 @@
       "price": 874
     },
     {
-      "id": 23,
+      "id": 22,
       "img": "https://m.media-amazon.com/images/I/614vD8x5ABL._UY741_.jpg",
       "name": "Ketika Sharma",
       "description": "AAahwan Women's & Girls' Solid Cowl Neck Cami Satin Mini Dress",
@@ -199,7 +199,7 @@
       "price": 854
     },
     {
-      "id": 24,
+      "id": 23,
       "img": "https://m.media-amazon.com/images/I/41GumcEKfeL.jpg",
       "name": "Ketika Sharma",
       "description": "Jaanshi Women's Sexy Sheer Cover Up Side Split Baby Doll Dress See Through Dress Honeymoon Beachwear See Through Dress for Woman Beach Dress",
@@ -208,7 +208,7 @@
       "price": 749
     },
     {
-      "id": 25,
+      "id": 24,
       "img": "https://m.media-amazon.com/images/I/51L8E5fAe9L._UY741_.jpg",
       "name": "Ketika Sharma",
       "description": "Tandul 2 Pieces Dress for Women Dresses Full Maxi Length Sleeveless Dress for Women & Girls, Black",
@@ -217,7 +217,7 @@
       "price": 699
     },
     {
-      "id": 26,
+      "id": 25,
       "img": "https://m.media-amazon.com/images/I/71uSFNLGs7L._UY741_.jpg",
       "name": "Ketika Sharma",
       "description": "Elyraa Women's A-Line Knee Length Dress Women/Girls",
@@ -226,8 +226,8 @@
       "price": 999
     },
     {
-      "id": 27,
-      "img": "https://pbs.twimg.com/media/Fbe0X_PaUAEVJkX?format=jpg&name=small",
+      "id": 26,
+      "img": "https://pbs.twimg.com/media/Fbe0X_PaUAEVJkX?format=jpg",
       "name": "Madhuri Jain",
       "description": "ADDYVERO Fold Pleated Bodycon Dress",
       "gender": "female",
@@ -235,8 +235,8 @@
       "price": 799
     },
     {
-      "id": 28,
-      "img": "https://pbs.twimg.com/media/F2mTpRGWQAAVFhD?format=jpg&name=360x360",
+      "id": 27,
+      "img": "https://pbs.twimg.com/media/F2mTpRGWQAAVFhD?format=jpg",
       "name": "Madhuri Jain",
       "description": "Jacquard Patola Silk Saree With Unstitched Blouse Piece",
       "gender": "female",
@@ -244,8 +244,8 @@
       "price": 2899
     },
     {
-      "id": 29,
-      "img": "https://pbs.twimg.com/media/FLyC674agAA_bF3?format=jpg&name=360x360",
+      "id": 28,
+      "img": "https://pbs.twimg.com/media/FLyC674agAA_bF3?format=jpg",
       "name": "Madhuri Jain",
       "description": "GoSriKi Women Kurta with red Dupatta",
       "gender": "female",
@@ -253,8 +253,8 @@
       "price": 899
     },
     {
-      "id": 30,
-      "img": "https://pbs.twimg.com/media/Fn3cCObacAAIjiw?format=jpg&name=small",
+      "id": 29,
+      "img": "https://pbs.twimg.com/media/Fn3cCObacAAIjiw?format=jpg",
       "name": "Jacqueline Mars",
       "description": "Fabricorn Women's Fleece Collared Neck Jacket",
       "gender": "female",
@@ -262,7 +262,7 @@
       "price": 799
     },
     {
-      "id": 31,
+      "id": 30,
       "img": "https://m.media-amazon.com/images/I/81oQrtlidNL._UX569_.jpg",
       "name": "Jacqueline Mars",
       "description": "Myx Women's Cotton Regular Kurti",
@@ -271,7 +271,7 @@
       "price": 399
     },
     {
-      "id": 32,
+      "id": 31,
       "img": "https://m.media-amazon.com/images/I/81ZcgdIk-xL._UX569_.jpg",
       "name": "Jacqueline Mars",
       "description": "Myx Women's Cotton Regular Short Kurti",
